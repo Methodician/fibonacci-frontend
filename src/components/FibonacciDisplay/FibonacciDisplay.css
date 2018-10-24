@@ -1,0 +1,20 @@
+.numberList {
+    background-color: aqua;
+    width: 90vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+    margin-top: 20px;
+}
+
+.number {
+    background-color: rgb(102, 56, 230);
+    color: rgb(158, 244, 255);
+    min-width: 20px;
+    height: 25px;
+    margin: 4px;
+    text-align: center;
+    padding: 0 3px 0 3px;
+    font-weight: 500;
+    border-radius: 10%;
+}

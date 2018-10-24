@@ -1,0 +1,11 @@
+.directions {
+    background-color: aqua;
+    color: darkblue;
+}
+
+.bumperBtn {
+    background-color: rgb(241, 165, 165);
+    color: rgb(82, 4, 4);
+    font-weight: 500;
+    border-radius: 10%;
+}
