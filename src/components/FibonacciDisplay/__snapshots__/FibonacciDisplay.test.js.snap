@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render fibonacci to 13 digits 1`] = `
+<div>
+  <div>
+    0
+  </div>
+  <div>
+    1
+  </div>
+  <div>
+    1
+  </div>
+  <div>
+    2
+  </div>
+  <div>
+    3
+  </div>
+</div>
+`;
